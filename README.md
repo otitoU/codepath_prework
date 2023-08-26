@@ -71,8 +71,6 @@ Users can set and track their mentorship goals within the app.
 Progress is monitored and shared with mentors and mentees.
 
 ## Notes
-
-Describe any challenges encountered while building the app.
 locating the Storyboard file in Step 3: Connecting UI to Logic 
 
 ## License
