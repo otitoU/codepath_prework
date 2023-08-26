@@ -59,15 +59,14 @@ Real-time Feedback:
 The AI provides real-time feedback to mentors during video calls.
 It suggests adjustments, such as asking clarifying questions or offering encouragement.
 
-6. Suggested Actions:
-
+Suggested Actions:
 Based on the AI analysis, the app may suggest specific actions for mentors, like sharing relevant resources or changing the conversation approach.
-7. Helpful Resources:
 
+Helpful Resources:
 The app offers access to a repository of articles, blogs, and posts related to the mentee's interests and needs.
 Content recommendations are based on the user's profile and interactions.
-8. Goal Tracking:
 
+Goal Tracking:
 Users can set and track their mentorship goals within the app.
 Progress is monitored and shared with mentors and mentees.
 
