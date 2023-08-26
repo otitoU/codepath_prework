@@ -1,9 +1,9 @@
 A prework for codepath ios dev(101)
-# Prework - *background color changer*
+# Prework - *Background color changer*
 
 Submitted by: **Otito Udedibor**
 
-**background changer** is an app that changes the background of itself(the app) [TODO] 
+**Background Changer** is an app that changes the background of itself(the app) [TODO] 
 
 Time spent: **1** hours spent in total
 
