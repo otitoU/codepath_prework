@@ -1,9 +1,9 @@
 A prework for codepath ios dev(101)
-# Prework - *Background color changer*
+# Prework - *Background Color Changer*
 
 Submitted by: **Otito Udedibor**
 
-**Background Changer** is an app that changes the background of itself(the app) [TODO] 
+**Background Color Canger** is an app that changes the background of itself(the app) [TODO] 
 
 Time spent: **1** hours spent in total
 
@@ -32,10 +32,11 @@ GIF created with ...
 
 - The animations when you reload the messages section
 - The view once snap mechanism
+  
 **Netflix**:
-
 - The transitions between and in each page
 - The layout of how the movies are arranged
+  
 **Instagram**:
 
 - Explore Tab: Personalized content discovery based on user interests.
@@ -45,22 +46,19 @@ GIF created with ...
 A communication app that connects mentors and mentees, featuring text and video calls along with AI-driven facial analysis for personalized suggestions.
 
 **Features**
-2. Matching Algorithm:
 
-The app uses an AI-driven algorithm to match mentors with mentees based on shared interests, expertise, and goals.
-The algorithm can also consider time zones and availability for scheduling.
-3. Text and Video Chat:
-
+Text and Video Chat:
 Users can engage in both text and video chats within the app.
 Video calls enable face-to-face interactions, promoting deeper connections.
-4. Facial Analysis AI:
 
+Facial Analysis AI:
 The app employs AI to analyze the mentee's facial expressions during video calls.
 It can detect emotions, engagement levels, and attentiveness.
-5. Real-time Feedback:
 
+Real-time Feedback:
 The AI provides real-time feedback to mentors during video calls.
 It suggests adjustments, such as asking clarifying questions or offering encouragement.
+
 6. Suggested Actions:
 
 Based on the AI analysis, the app may suggest specific actions for mentors, like sharing relevant resources or changing the conversation approach.
