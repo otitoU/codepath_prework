@@ -1,11 +1,11 @@
 A prework for codepath ios dev(101)
-# Prework - *baackground changer*
+# Prework - *background color changer*
 
 Submitted by: **Otito Udedibor**
 
-**background changer** is an app that Changes the background of itself [TODO] 
+**background changer** is an app that changes the background of itself(the app) [TODO] 
 
-Time spent: **.5** hours spent in total
+Time spent: **1** hours spent in total
 
 ## Required Features
 
@@ -28,10 +28,55 @@ GIF created with ...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+**SnapChat**:
+
+- The animations when you reload the messages section
+- The view once snap mechanism
+**Netflix**:
+
+- The transitions between and in each page
+- The layout of how the movies are arranged
+**Instagram**:
+
+- Explore Tab: Personalized content discovery based on user interests.
+- Business Tools: Analytics, advertising, and profiles tailored for businesses.
+
+**My App Idea**: 
+A communication app that connects mentors and mentees, featuring text and video calls along with AI-driven facial analysis for personalized suggestions.
+
+**Features**
+2. Matching Algorithm:
+
+The app uses an AI-driven algorithm to match mentors with mentees based on shared interests, expertise, and goals.
+The algorithm can also consider time zones and availability for scheduling.
+3. Text and Video Chat:
+
+Users can engage in both text and video chats within the app.
+Video calls enable face-to-face interactions, promoting deeper connections.
+4. Facial Analysis AI:
+
+The app employs AI to analyze the mentee's facial expressions during video calls.
+It can detect emotions, engagement levels, and attentiveness.
+5. Real-time Feedback:
+
+The AI provides real-time feedback to mentors during video calls.
+It suggests adjustments, such as asking clarifying questions or offering encouragement.
+6. Suggested Actions:
+
+Based on the AI analysis, the app may suggest specific actions for mentors, like sharing relevant resources or changing the conversation approach.
+7. Helpful Resources:
+
+The app offers access to a repository of articles, blogs, and posts related to the mentee's interests and needs.
+Content recommendations are based on the user's profile and interactions.
+8. Goal Tracking:
+
+Users can set and track their mentorship goals within the app.
+Progress is monitored and shared with mentors and mentees.
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+locating the Storyboard file in Step 3: Connecting UI to Logic 
 
 ## License
 
