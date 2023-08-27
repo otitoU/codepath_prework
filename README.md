@@ -17,6 +17,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 <blockquote class="imgur-embed-pub" lang="en" data-id="JF3ebZm"><a href="https://imgur.com/JF3ebZm">View post on imgur.com</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
+![7x4js6](https://github.com/otitoU/codepath_prework/assets/53659710/e67277ee-7410-48ef-aebc-dcfaa1f16afa)
 
 
 ## App Brainstorming (Step 4)
