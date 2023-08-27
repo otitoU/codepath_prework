@@ -16,18 +16,11 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
 
-<img src='[http://i.imgur.com/link/to/your/gif/file.gif](https://imgur.com/a/1e3XOWf)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <a href="//imgur.com/a/BdUQWvR"></a>
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+
 
 ## App Brainstorming (Step 4)
 **SnapChat**:
