@@ -15,8 +15,7 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
-<div style="width:260px;max-width:100%;"><div style="height:0;padding-bottom:171.15%;position:relative;"><iframe width="260" height="445" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameBorder="0" src="https://imgflip.com/embed/7x45fk"></iframe></div><p><a href="https://imgflip.com/gif/7x45fk">via Imgflip</a></p></div>
+<blockquote class="imgur-embed-pub" lang="en" data-id="a/BdUQWvR" data-context="false" ><a href="//imgur.com/a/BdUQWvR"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 
 
 
