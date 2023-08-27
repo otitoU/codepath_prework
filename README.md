@@ -17,6 +17,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 
+<img src='//imgur.com/a/BdUQWvR' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <a href="//imgur.com/a/BdUQWvR"></a>
 
